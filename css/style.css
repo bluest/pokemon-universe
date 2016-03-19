@@ -19,21 +19,19 @@
 	margin-right: auto;
 }
 
-ul li.gallery{
-	display: inline-block;
-	list-item: none;
-	font-weight: bold;
-}
 
-ul.gallery{
-	padding: 0;
-}
-
-.content{
-	
-	
+.gallery{
+    display: block;
+    margin: auto;
 }
 
 .logo{
 	width: 30%;
+}
+
+.pokemon-name{
+    width: auto;
+    display: block;
+    text-align: center;
+    font-weight: bold;
 }
