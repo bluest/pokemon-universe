@@ -1,0 +1,39 @@
+.crop-img{
+  max-height:150px;
+  max-width:100%;
+  margin-bottom: 10px;
+}
+
+.large-img{
+  max-width:100%;
+  margin-top: 10px;
+}
+
+#backward, #forward{
+	margin-top:110px;
+}
+
+#bigImage{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+ul li.gallery{
+	display: inline-block;
+	list-item: none;
+	font-weight: bold;
+}
+
+ul.gallery{
+	padding: 0;
+}
+
+.content{
+	
+	
+}
+
+.logo{
+	width: 30%;
+}
